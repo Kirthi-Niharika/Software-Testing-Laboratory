@@ -1,6 +1,6 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221040084
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -16,27 +16,67 @@ Write a python program to check the number is Armstrong number or not and inspec
 9.	Stop the program.
 
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+x = input("Enter the input: ") 
+if x.isnumeric(): 
+    x = int(x) 
+    temp = x 
+    cube = 0; 
+    while(temp>0): 
+        digit = temp%10 
+        cube = cube + (digit**3) 
+        temp//=10 
+    if(cube == x): 
+        print("Armstrong Number") 
+    else: 
+        print("Not Armstrong Number") 
+else: 
+    print("Enter a Positive Integer.")
+```
 ### Output:
-
-
-
-
-
-
+```
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 876
+Not Armstrong Number
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 153
+Armstrong Number
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: ,,l
+Enter a Positive Integer.
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 5.6
+Enter a Positive Integer.
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 
+Enter a Positive Integer.
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 000
+Armstrong Number
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 0
+Armstrong Number
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 111
+Not Armstrong Number
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: 321
+Not Armstrong Number
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: hi
+Enter a Positive Integer.
+>>> 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/Desktopp/STL exp/stl 4.py =====
+Enter the input: -153
+Enter a Positive Integer.
+```
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
-
-
