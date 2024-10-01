@@ -92,6 +92,7 @@ iterate()
 
 
 ### Output:
+```
 ========== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1b.py =========
 Enter a positive value for START: 2
 Enter a positive value for END: 8
@@ -199,6 +200,8 @@ Enter a positive value for END: 1
 Enter a positive value for START: 
  ======= RESTART: C:\Users\Kirthi\OneDrive\Desktop\STL exp\stlb.py ======
 Enter a positive value for END: Enter a valid positive number.
+```
+```
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
 Enter a positive value for START: 2
 Enter a positive value for END: 6
@@ -247,6 +250,8 @@ Enter a valid positive number.
 Enter a positive value for START: A
 Enter a positive value for END: Z
 Enter a valid positive number.
+```
+```
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1c.py =====
 Enter a value for N: 
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1c.py =====
@@ -288,7 +293,8 @@ Enter a valid number.
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1c.py =====
 Enter a value for N: 1
 odd
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1d.py =====
+```
+```
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1d.py =====
 Enter a value for A: 8
 Enter a value for B: 3
@@ -347,6 +353,8 @@ Enter a valid number.
 Enter a value for A: A
 Enter a value for B: Z
 Enter a valid number.
+```
+```
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1e.py =====
 Enter a string: stdfj
 115 116 100 102 106 
@@ -404,7 +412,7 @@ Enter a string: `~{
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1e.py =====
 Enter a string: (^~^)
 40 94 126 94 41
-
+```
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
