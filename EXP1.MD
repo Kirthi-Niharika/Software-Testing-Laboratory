@@ -14,7 +14,6 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-
 a) do…while
 ```
 def display():
@@ -45,7 +44,6 @@ if start.isnumeric() and end.isnumeric():
         start+=1 
 else:
     print("Enter a valid positive number.")
-
 ```
  c) if …else 
 ```
@@ -65,7 +63,6 @@ def compare():
         print('Enter a valid number.') 
 compare()
 ```
-
   d) switch 
 ```
 def switch(): 
@@ -77,9 +74,7 @@ def switch():
     except ValueError: 
         print("Enter a valid number.") 
 switch() 
-
 ```
-
   e) for 
 ```
 def iterate():
@@ -87,10 +82,7 @@ def iterate():
     for i in string: 
         print(ord(i),end=" ") 
 iterate()
-
 ```
-
-
 ### Output:
 ```
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
@@ -411,8 +403,5 @@ Enter a string: `~{
 Enter a string: (^~^)
 40 94 126 94 41
 ```
-
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
-
-
