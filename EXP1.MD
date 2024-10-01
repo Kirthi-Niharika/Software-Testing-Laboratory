@@ -246,9 +246,7 @@ Enter a positive value for END: 7
 Enter a positive value for START: 7
 Enter a positive value for END: 1
 7 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 
- ======= RESTART: C:\Users\Kirthi\OneDrive\Desktop\STL exp\stlb.py ======
+======= RESTART: C:\Users\Kirthi\OneDrive\Desktop\STL exp\stlb.py ======
 Enter a positive value for END: Enter a valid positive number.
 ```
 ```
