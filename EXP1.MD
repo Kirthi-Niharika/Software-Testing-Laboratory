@@ -93,6 +93,56 @@ iterate()
 
 ### Output:
 ```
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 2
+Enter a positive value for END: 6
+2 3 4 5 6 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 6
+Enter a positive value for END: 2
+6 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 0
+Enter a positive value for END: 0
+0 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 1
+Enter a positive value for END: 10
+1 2 3 4 5 6 7 8 9 10 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 0
+Enter a positive value for END: 7
+0 1 2 3 4 5 6 7 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 7
+Enter a positive value for END: 0
+7 
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: hi
+Enter a positive value for END: bye
+Enter a valid positive number.
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: -87
+Enter a positive value for END: -9
+Enter a valid positive number.
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: gjkj
+Enter a positive value for END: hh
+Enter a valid positive number.
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: ++
+Enter a positive value for END: --/
+Enter a valid positive number.
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: 2+
+Enter a positive value for END: 1
+Enter a valid positive number.
+====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
+Enter a positive value for START: A
+Enter a positive value for END: Z
+Enter a valid positive number.
+```
+```
 ========== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1b.py =========
 Enter a positive value for START: 2
 Enter a positive value for END: 8
@@ -200,56 +250,6 @@ Enter a positive value for END: 1
 Enter a positive value for START: 
  ======= RESTART: C:\Users\Kirthi\OneDrive\Desktop\STL exp\stlb.py ======
 Enter a positive value for END: Enter a valid positive number.
-```
-```
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 2
-Enter a positive value for END: 6
-2 3 4 5 6 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 6
-Enter a positive value for END: 2
-6 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 0
-Enter a positive value for END: 0
-0 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 1
-Enter a positive value for END: 10
-1 2 3 4 5 6 7 8 9 10 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 0
-Enter a positive value for END: 7
-0 1 2 3 4 5 6 7 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 7
-Enter a positive value for END: 0
-7 
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: hi
-Enter a positive value for END: bye
-Enter a valid positive number.
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: -87
-Enter a positive value for END: -9
-Enter a valid positive number.
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: gjkj
-Enter a positive value for END: hh
-Enter a valid positive number.
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: ++
-Enter a positive value for END: --/
-Enter a valid positive number.
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: 2+
-Enter a positive value for END: 1
-Enter a valid positive number.
-====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1a.py =====
-Enter a positive value for START: A
-Enter a positive value for END: Z
-Enter a valid positive number.
 ```
 ```
 ====== RESTART: C:/Users/Kirthi/OneDrive/Desktop/STL exp/stl 1c.py =====
