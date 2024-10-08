@@ -84,19 +84,19 @@ def iterate():
 iterate()
 ```
 ### Output:
-a)
+
 ![image](https://github.com/user-attachments/assets/cea35a7e-4447-46b8-a512-5e8d8f8605ce)
 ![image](https://github.com/user-attachments/assets/12d15ab8-0ef3-4bca-b359-b9620484a5cf)
-b)
+
 ![image](https://github.com/user-attachments/assets/da2a60d1-04bc-4205-b199-a49f7a357cb5)
 ![image](https://github.com/user-attachments/assets/ed205e2c-5cea-47a7-b014-ba3840b3e2cf)
-c)
+
 ![image](https://github.com/user-attachments/assets/20fd7115-0766-4343-8d2e-f23caa0cce74)
 ![image](https://github.com/user-attachments/assets/8a3675bc-36b0-4734-b973-592bb4cbd078)
-d)
+
 ![image](https://github.com/user-attachments/assets/27becebc-3cf3-410e-b178-ce487eff1bae)
 ![image](https://github.com/user-attachments/assets/5457b600-8990-41cb-ace5-c2c3b404961e)
-e)
+
 ![image](https://github.com/user-attachments/assets/2b50825f-b489-4243-9876-e4445445f9c8)
 ![image](https://github.com/user-attachments/assets/f5db8961-b237-4512-9f71-d44d796eced3)
 ### Result:
