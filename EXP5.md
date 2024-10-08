@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25638c55-0550-45ef-aa6f-6709bbfe5b38)![image](https://github.com/user-attachments/assets/b8c71169-7f84-4275-b7fa-708d6a7a662c)## 5.Binary Search
+# Ex.No: 5 Binary Search
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
