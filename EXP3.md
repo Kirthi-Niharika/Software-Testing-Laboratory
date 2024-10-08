@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9fdb6b12-d755-4e5f-8ffa-768cad33d417)# Ex.No: 3 To check the number is prime or not and inspect for failures.
+# Ex.No: 3 To check the number is prime or not and inspect for failures.
  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040084
