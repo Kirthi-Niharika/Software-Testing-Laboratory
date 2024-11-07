@@ -1,7 +1,7 @@
 # Ex.No: 9  Pytest program for Sum of Digits 
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221040084
 ### AIM: 
 To write a python program for sum of digits and validate the code using Pytest. 
 ### Algorithm:
@@ -15,20 +15,21 @@ should have assert keyword at the beginning.
 6. Stop the program.
 
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
+```
+def sumOfDigits(n): 
+	sum = 0 
+	while (n != 0): 
+		sum = sum + int(n % 10) 
+		n = int(n/10) 
+	return sum 
+def test_1(): 
+	assert sumOfDigits(123) == 6 
+def test_2(): 
+	assert sumOfDigits(256) == 2
+```
 ### Output:
 
-
+![image](https://github.com/user-attachments/assets/c5350e58-18b9-4a14-b84a-5f01e317d917)
 
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
